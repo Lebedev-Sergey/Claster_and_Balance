@@ -48,7 +48,7 @@
  python3 -m http.server 9000
 
 ```
-
+![](https://user-images.githubusercontent.com/136073445/260093296-c41270f6-83af-4b77-aec2-18aa8338f3db.png)
 
 ### Задание 2
 - Запустите три simple python сервера на своей виртуальной машине на разных портах
