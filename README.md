@@ -64,7 +64,9 @@
 Ответ:
 
 
-![](https://user-images.githubusercontent.com/136073445/261105016-a67a7d40-10f2-4e58-a1fd-addc13df1955.png)
+![](https://user-images.githubusercontent.com/136073445/261108721-73a03b9b-c994-4784-b795-d110bd1f8e50.png)
+
+[конфигурационный файл haproxy]()
 
 ---
 
