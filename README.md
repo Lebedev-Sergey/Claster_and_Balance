@@ -48,7 +48,6 @@
  python3 -m http.server port
 
 ```
-![]()
 
 ![](https://user-images.githubusercontent.com/136073445/261101139-4f31fe78-5737-41d9-a9c5-6aa768eafa39.png)
 
@@ -62,7 +61,9 @@
 - HAproxy должен балансировать только тот http-трафик, который адресован домену example.local
 - На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy c использованием домена example.local и без него.
 
+Ответ:
 
+![](https://user-images.githubusercontent.com/136073445/261105016-a67a7d40-10f2-4e58-a1fd-addc13df1955.png)
 
 ---
 
