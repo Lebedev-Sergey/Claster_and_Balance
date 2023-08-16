@@ -52,7 +52,7 @@
 
 ![](https://user-images.githubusercontent.com/136073445/261101139-4f31fe78-5737-41d9-a9c5-6aa768eafa39.png)
 
-[конфигурационный файл haproxy]()
+[конфигурационный файл haproxy](https://github.com/Lebedev-Sergey/Claster_and_Balance/blob/e86e7f51dc17f411e126d1d19cb8b9661772e2c1/haproxy.cfg)
 
 ### Задание 2
 - Запустите три simple python сервера на своей виртуальной машине на разных портах
