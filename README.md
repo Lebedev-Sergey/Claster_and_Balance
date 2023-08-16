@@ -66,7 +66,7 @@
 
 ![](https://user-images.githubusercontent.com/136073445/261108721-73a03b9b-c994-4784-b795-d110bd1f8e50.png)
 
-[конфигурационный файл haproxy]()
+[конфигурационный файл haproxy](https://github.com/Lebedev-Sergey/Claster_and_Balance/blob/main/haproxy1.cfg)
 
 ---
 
