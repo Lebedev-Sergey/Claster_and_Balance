@@ -63,6 +63,7 @@
 
 Ответ:
 
+
 ![](https://user-images.githubusercontent.com/136073445/261105016-a67a7d40-10f2-4e58-a1fd-addc13df1955.png)
 
 ---
