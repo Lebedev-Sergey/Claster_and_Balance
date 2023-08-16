@@ -54,6 +54,8 @@
 
 [конфигурационный файл haproxy](https://github.com/Lebedev-Sergey/Claster_and_Balance/blob/e86e7f51dc17f411e126d1d19cb8b9661772e2c1/haproxy.cfg)
 
+[конфигурационный файл nginx](https://github.com/Lebedev-Sergey/Claster_and_Balance/blob/014be19ab19afd31e8fce96094d32db47eea6943/nginx.conf)
+
 ### Задание 2
 - Запустите три simple python сервера на своей виртуальной машине на разных портах
 - Настройте балансировку Weighted Round Robin на 7 уровне, чтобы первый сервер имел вес 2, второй - 3, а третий - 4
